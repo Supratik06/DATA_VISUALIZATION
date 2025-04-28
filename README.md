@@ -1,6 +1,11 @@
 PROJECT OVERVIEW 
+
+
 EV Pulse: Data Insights on Electric Vehicles 
-INTRODUCTION 
+
+
+INTRODUCTION
+
 Electric vehicles (EVs) have emerged as a transformative force in the global transition toward 
 sustainable transportation. As environmental concerns, energy security, and technological 
 advancements reshape the automotive industry, electric vehicles are becoming increasingly 
